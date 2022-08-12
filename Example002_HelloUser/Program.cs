@@ -2,3 +2,4 @@
 string userName = Console.ReadLine( );
 Console.Write("Hello, " + userName);
 //Console.Write(userName);
+//Проверка игнора
